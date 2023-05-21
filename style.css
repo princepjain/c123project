@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    font-size: 24px;
+    margin-top: 0;
+    box-shadow: 10px 10px 100px rgb(255, 95, 47);
+}
+
+#lmnopqrstuvwxyz{
+    font-size: small;
+}
+
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    font-size: large;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+     line-height:3;
+}
